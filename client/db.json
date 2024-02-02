@@ -1,0 +1,26 @@
+[{
+    "_id": {
+      "$oid": "65bb63358f7db5b6a0b0ef9a"
+    },
+    "name": "Admin",
+    "password": "$2a$12$Hj4OUeigatuvWXusopo1Au3NfZ5lINePsJ0M7YXqSCRyapTW.tucy",
+    "phone": "0388013991",
+    "roleCode": "R1",
+    "positionCode": "P2",
+    "__v": 0,
+    "avatar": "https://res.cloudinary.com/djjv3stcm/image/upload/v1706781996/phongtro123/vxxobqzattnn65uw6eis.jpg",
+    "fbUrl": "0390489125",
+    "zalo": "0389028192"
+  },
+  {
+    "_id": {
+      "$oid": "65bb7174b69f1f623b9ebfa9"
+    },
+    "name": "Nguuen A",
+    "password": "$2a$12$tJ//aJmBYoJFBpK9vMwWl.hJwTc7.6ISeASB1ISmAcii0ZqqgE3hG",
+    "phone": "0298192312",
+    "roleCode": "R2",
+    "positionCode": "P1",
+    "__v": 0
+  }]
+  
